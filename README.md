@@ -1,7 +1,9 @@
 # Social
 Social 
 # 💫 About Me:
-🎮 When the moon rises, you'll find me immersed in epic battles and captivating adventures in the gaming universe. Gaming is not just a hobby; it's a way of life! 🌙
+### Hi there, I'm Aditya Patel 👋
+
+🚀 I'm a passionate coder with a love for turning ideas into functional software.
 
 
 ## 🌐 Socials:
