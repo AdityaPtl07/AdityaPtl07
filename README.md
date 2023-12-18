@@ -1,7 +1,6 @@
 # 💫 About Me:
-Social 
-# Social
-### Hi there, I'm Aditya Patel 👋
+
+##  Hi there, I'm Aditya Patel ✌️
 
 🚀 I'm a passionate coder with a love for turning ideas into functional software.
 
